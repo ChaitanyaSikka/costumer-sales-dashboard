@@ -4,6 +4,8 @@ A professional, interactive Streamlit dashboard for analyzing customer sales dat
 
 ## 🎯 Features
 
+## Live Project- https://costumer-sales-dashboard-dohujla2tgqviw2gqiwczx.streamlit.app/
+
 ### 📈 Dashboard Components
 - **KPI Cards**: Total Customers, Total Revenue, Average Purchase Amount, Average Feedback Score, Number of Cities, Number of Countries
 - **Distribution Charts**: Gender distribution (pie chart), Country-wise and City-wise customer distribution
